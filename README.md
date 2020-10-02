@@ -1,2 +1,2 @@
 # Self-Organizing-Maps
-Implementing Kohonen Self Organizing Maps using gaussian distribution
+Implementing Kohonen Self Organizing Maps using gaussian distribution neighbor function
